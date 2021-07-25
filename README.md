@@ -2,5 +2,5 @@
 ### Master Python 🐍 by building 100 projects in 100 days. Learn to build websites, games, apps, plus scraping and data science
 
 
-The challenge : 100 days, 1 hour per day, learn to build 1 project per day, this is how you master Python.
+The challenge : 100 days, 1 hour per day, learn to build 1 project per day, this is how you master Python.<br>
 My progress: 50/100 (50%)   🐍🐍
